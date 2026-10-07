@@ -1,0 +1,14 @@
+C:\GameServer\bin\Debug\net10.0\GameServer.exe
+C:\GameServer\bin\Debug\net10.0\GameServer.deps.json
+C:\GameServer\bin\Debug\net10.0\GameServer.runtimeconfig.json
+C:\GameServer\bin\Debug\net10.0\GameServer.dll
+C:\GameServer\bin\Debug\net10.0\GameServer.pdb
+C:\GameServer\obj\Debug\net10.0\GameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\GameServer\obj\Debug\net10.0\GameServer.AssemblyInfoInputs.cache
+C:\GameServer\obj\Debug\net10.0\GameServer.AssemblyInfo.cs
+C:\GameServer\obj\Debug\net10.0\GameServer.csproj.CoreCompileInputs.cache
+C:\GameServer\obj\Debug\net10.0\GameServer.dll
+C:\GameServer\obj\Debug\net10.0\refint\GameServer.dll
+C:\GameServer\obj\Debug\net10.0\GameServer.pdb
+C:\GameServer\obj\Debug\net10.0\GameServer.genruntimeconfig.cache
+C:\GameServer\obj\Debug\net10.0\ref\GameServer.dll
