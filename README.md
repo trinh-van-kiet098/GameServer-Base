@@ -1,11 +1,11 @@
 # GameServer (.NET 10)
 
-## Chay
+## Run
     dotnet run
 
 Server listen o :9000.
 
-## Kien truc
+## AT
 - Thread-per-Map (4 map) : Core/GameLoopThread + World/Map
 - Thread-per-Room (dong) : World/Room
 - Service Pool           : Services/ (Auth, Shop) tren ThreadPool
